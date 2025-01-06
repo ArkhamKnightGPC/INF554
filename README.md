@@ -8,3 +8,7 @@ Assignments from the course Machine and Deep learning at Ecole polytechnique.
 - **Lab4: Unsupervised Learning**
 - **Lab5: SVM (Support Vector Machines) and Low rank approximations with NMF (Non-Negative Matrix Factorisation)**
 - **Assessment: Boston Housing data analysis using Regression Tree models**
+- **Lab6: Introduction to neural networks (Perceptrons, MLPs)**
+- **Lab7: Convolutional Neural Networks(CNNs) with PyTorch**
+- **Lab8: Recurrent Neural Networks(RNNs)**
+- **Lab9: Deep Learning on Graph data structure**
